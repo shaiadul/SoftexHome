@@ -13,7 +13,7 @@ Before you begin, ensure you have met the following requirements:
 
 - [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) installed on your machine.
 
-## Downloading the App
+## Downloading the Apps
 
 You can download the app by following these steps:
 
