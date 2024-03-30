@@ -20,4 +20,3 @@ You can download the app by following these steps:
 1. **Clone** this repository to your local machine using [Git](https://git-scm.com/):
    ```bash
    git clone https://github.com/your-username/nextjs-app.git
-2.
